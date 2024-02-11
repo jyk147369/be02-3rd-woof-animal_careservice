@@ -10,6 +10,7 @@
         <br/>
         <br/>
 
+
         <!-- <label style="font-size: 18px; font-family: Helvetica; display: flex; justify-content: center; align-items: center;">만족도</label>  -->
         <label style="font-size:35px;font-weight:600; color:#4D5055; line-height:55px; display: flex; justify-items: center; align-items: center; margin-left: 310px;">언제 어디서든 <br/>펫 매니저를 부르세요.</label> <br/>
         <br/>
