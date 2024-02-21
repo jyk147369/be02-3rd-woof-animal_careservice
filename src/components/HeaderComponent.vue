@@ -20,7 +20,7 @@
                         <a href="/login/member">Login</a>
                     </li>
                     <li v-show="isLoggedIn">
-                        <a @click="logout()">로그아웃</a>
+                        <a @click="logout()">Logout</a>
                     </li>
                     <li >
                         <!-- v-show="isLoggedIn" -->
